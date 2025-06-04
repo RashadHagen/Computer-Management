@@ -40,3 +40,13 @@
   <br/>
 </li>
 </ul>
+
+
+<ul>
+<li>
+  <a href="https://github.com/RashadHagen/Computer-Management-Set-A-Local-Account-Password">
+    <strong style="font-family: Arial, sans-serif; font-size: 16px;">Computer Management – Set A Local Account Password</strong>
+  </a>
+  <br/>
+</li>
+</ul>
